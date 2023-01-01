@@ -1,0 +1,134 @@
+.samin {
+     background-color: rgb(117, 117, 117);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+     padding: 0 0 0 0;
+     padding: 10rem 0;    
+}
+#samin1 {padding-left: 45%;
+font-size: 25px;}
+#samin2 {padding-left: 31%;
+font-size: 55px;}
+#samin3 {padding-left: 45.59%;
+font-size: 20px;}
+.samin1 {padding:0 0 0 43% ;
+font-size: 50px;
+border-bottom: 0.2px solid;}
+body {background-color: rgb(169, 169, 169);
+color: rgb(0, 0, 0);}
+#samin4 { padding-left: 34%;
+font-size: 20px;}
+img{padding-left: 35%;}
+.mahin1 h2 {font-size: 35px}
+.mahin1 {
+     width: 1000px;
+}
+.mahin1 p{color: rgb(48, 70, 70);
+margin: 15px 0;}
+.mahin1{padding-left: 15%;
+}
+#mahin{display: flex;
+align-items: center;}
+button {background-color: black;
+color: aliceblue;}
+.samin11{
+     padding-left: 45%;
+     font-size: 40px;
+}
+.samin12{
+     padding-left: 41%;
+     font-size: 18px;
+}
+
+.table1{
+    text-align: center;
+;
+   
+}
+.saminkhan{
+     padding-left:  40px;
+     font-size: 40px;
+     padding-top: 100px;
+}
+.h2{
+     padding-left: 43%;
+     font-size: 40px;
+}
+.p1{
+     padding-left: 41.05%;
+     font-size: 20px;
+}
+.saminkhan2{
+     padding-left: 180px;
+     font-size: 40px;
+     padding-top: 100px;
+}
+.p2{
+     font-size: 20px;
+}
+.h3{
+     text-align: center;
+     font-size: 45px;
+
+}
+.p3{
+     padding-left: 42.8%;
+     font-size: 19px;
+}
+.td2{
+     font-size: 35px;
+     padding-left: 50px;
+}
+.mikey{
+     font-style:bold;
+     padding-left: 250px;
+     font-size: 15px;
+     color: rgb(0, 0, 0);
+}
+.td3{
+     padding-left: 220px;
+     font-size: 25px;
+}
+.h5{
+    text-align: center;
+     font-size: 40px;
+     color: black;
+}
+form input{
+     width: 300px;
+     height: 30px;
+     font-size: 30px;
+     
+}
+.submit{
+     background-color: rgb(0, 89, 255);
+     height: 40px;
+     width: 200px;
+     text-align: center;
+     color: aliceblue;
+     margin-top: 30px;
+     margin-left: 100px;
+}
+form{
+     margin-left: 38rem;
+     
+}
+span{
+     font-size: 30px;
+     color: black;
+}
+footer{
+     background-color: black;
+     color: white;
+     text-align: center;
+     height: 40px;
+     padding-top: 20px;
+
+}
+.a{
+     
+          background-color: rgb(0, 0, 0);
+          color: rgb(235, 235, 235);
+          font-size: 30px;
+}
